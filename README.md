@@ -1,7 +1,7 @@
 # SUMMER HOMEWORK
 
 ## Введение
-В качестве выборки в рамках домашнего задания по курсу DSIS была выбрана `Cybersecurity Risk (2022 CISA Vulnerability)`, (URL: https://www.kaggle.com/datasets/thedevastator/exploring-cybersecurity-risk-via-2022-cisa-vulne). 
+В качестве выборки в рамках домашнего задания по курсу DSIS была выбрана `Cybersecurity Risk (2022 CISA Vulnerability)`, (URL: https://www.kaggle.com/datasets/thedevastator/exploring-cybersecurity-risk-via-2022-cisa-vulne). (Файл `database.zip`) 
 
 Данная выборка содержит информацию об эксплуатируемых уязвимостях из каталога CISA, включаю информацию о `CVE ID`, `vendor project`, `product`, `vulnerability name`, `date added`, `short description`, `required action`, `due date`, `notes`, `group`, `publication date`, `CVSS store`, `CWE`, `vector`, `complexity`, `severity`.
 
